@@ -4,7 +4,7 @@ description: Evaluate people based on demonstrated results and proven ability ra
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4485
+  version: 1.0.4486
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - merit-assessment
